@@ -644,7 +644,7 @@ Success, you now have full crud functionality!
 
 We will now go through seveal refactors to improve this code base, if you need to see the code as it before these refactors.
 
-- [Code Before Refactoring](https://git.generalassemb.ly/AlexMerced/full-crud-liquid-express)
+- [Code Before Refactoring](LINK TBD)
 
 See the upcoming changes on the branches
 
@@ -738,7 +738,7 @@ const Fruit = require("./models/fruit");
 
 Our server.js is already starting to look a lot cleaner!
 
-[Checkout this branch to see the code up to this point](https://git.generalassemb.ly/AlexMerced/full-crud-liquid-express/tree/refactor1)
+[Checkout this branch to see the code up to this point](LINK TBD)
 
 ## Refactor #2 - Move the fruit routes into a controller/router
 
@@ -938,7 +938,7 @@ Your app should now be working just like it was before but now should be more or
 
 Essentially we just repeat this pattern for each category of functionality we want to add to our app.
 
-[Check this branch to see the code up to this point](https://git.generalassemb.ly/AlexMerced/full-crud-liquid-express/tree/refactor2)
+[Check this branch to see the code up to this point](LINK TBD)
 
 ## Refactor #3 - Using a Seed File
 
@@ -1013,7 +1013,7 @@ Let's write a script in package.json that will run this file for us
 
 Now we can run our seed with `npm run seed`
 
-[Check this branch to see the code up to this point](https://git.generalassemb.ly/AlexMerced/full-crud-liquid-express/tree/refactor3)
+[Check this branch to see the code up to this point](LINK TBD)
 
 # Bonus Refactors if there is Time
 
@@ -1493,7 +1493,7 @@ router.get("/", (req, res) => {
 
 There you go, users can login and out and only see fruits associated with their account!
 
-[Check this branch to see the code up to this point](https://git.generalassemb.ly/AlexMerced/full-crud-liquid-express/tree/refactor4)
+[Check this branch to see the code up to this point](LINK TBD)
 
 ## Bonus Refactor #5 - Isolating the Middleware
 
@@ -1579,7 +1579,7 @@ const PORT = process.env.PORT;
 app.listen(PORT, () => console.log(`Now Listening on port ${PORT}`));
 ```
 
-[Check this Branch to see code so far](https://git.generalassemb.ly/AlexMerced/full-crud-liquid-express/tree/refactor5)
+[Check this Branch to see code so far](LINK TBD)
 
 ## Bonus Refactor #6 - the home router
 
