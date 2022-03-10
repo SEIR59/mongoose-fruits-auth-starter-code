@@ -640,4 +640,4 @@ app.delete("/fruits/:id", (req, res) => {
 
 Success, you now have full crud functionality!
 
-[The final code can be seen here](link TBD)
+[The final code can be seen here](https://git.generalassemb.ly/sei-ec-remote/full-CRUD-fruits-mongoose/tree/refactor1)
